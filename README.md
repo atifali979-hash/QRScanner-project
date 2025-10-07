@@ -1,2 +1,1 @@
-# QRScanner-project
-QRScanner project
+QRScanner scaffold. Run npm install and npm run dev. Login admin/Admin@123
